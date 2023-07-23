@@ -2,8 +2,10 @@
     min-width: 340px;
 }
 .profile-circel-image-200{
-	width: 100px;
-	height: 100px;
+	width: 75px;
+	height: 75px;
+    border-radius: 50%;
+    border: 3px solid #071952;
 }
 .module{
     margin-top: 15px;
